@@ -1,4 +1,5 @@
-Author | [IconsMind](http://www.thenounproject.com/imicons)
-:------------- | -------------:
-**Icon** | [**24-Hour**](http://thenounproject.com/term/24-hour/72798/)
-**License** | [**CC BY 3.0**](http://creativecommons.org/licenses/by/3.0/us/)
+# [meta](https://github.com/datetime/meta/issues) [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/datetime/meta)
+
+> General discussions repo for `datetime` related projects
+
+If you have any general questions regarding regexps or any of its projects, please open an issue here. Don't open issues in other repositories unless they are actual issues.
